@@ -4,7 +4,7 @@
 *********************************
 
 
-* [Week 1](https://github.com/gopala-kr/enterprise-dl-with-tf/tree/master/notes-assignments/Week-1) : Getting Started with Deep Learning
+* [[Week 1](https://github.com/gopala-kr/enterprise-dl-with-tf/tree/master/notes-assignments/Week-1)] : Getting Started with Deep Learning
 * [Week 2] : Building Tensorflow applications
 * [Week 3] : Deep Networks and Sequence Models
 * [Week 4] : Convolutional Networks
