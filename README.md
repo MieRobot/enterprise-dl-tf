@@ -1,5 +1,6 @@
 
-**An openSAP deep-learning course from SAP experts featuring special guests from JP Morgan Chase, NVIDIA, Google, and others**
+**An openSAP deep-learning course from SAP experts featuring special guests from JP Morgan Chase, NVIDIA, Google, and others** course: https://open.sap.com/courses/ml2
+
 *********************************
 
 
