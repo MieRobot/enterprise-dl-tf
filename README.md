@@ -8,6 +8,6 @@
 * [[Week 2](https://github.com/gopala-kr/enterprise-dl-with-tf/tree/master/notes-assignments/Week-2)] : Building Tensorflow applications
 * [[Week 3](https://github.com/gopala-kr/enterprise-dl-with-tf/tree/master/notes-assignments/Week-3)] : Deep Networks and Sequence Models
 * [[Week 4](https://github.com/gopala-kr/enterprise-dl-with-tf/tree/master/notes-assignments/Week-4)] : Convolutional Networks
-* [Week 5] : Industry Applications of Deep Learning
+* [[Week 5](https://github.com/gopala-kr/enterprise-dl-with-tf/tree/master/notes-assignments/Week-5)] : Industry Applications of Deep Learning
 * [Week 6] : Advanced Deep Learning Topics
 * [Week 7] : Final Exam
